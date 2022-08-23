@@ -1,0 +1,86 @@
+body {
+  font-family: "Sofia", sans-serif;
+  background-color:	#202124;
+  color: white;
+
+}
+.main{
+   margin-top: 270px;
+}
+
+.Google{
+    text-align: center;
+    font-size: 90px;
+    font-style: normal;
+    color: white;
+}
+
+.search{
+    color: white;
+    height: 40px;
+    background-color: #202124;
+    border-radius: 40px;
+    border-color: #303134;
+    border-style: solid;
+    font-style: normal;
+
+}
+.search:focus{
+    background-color: #303134;
+}
+.search:hover{
+    background-color: #303134;
+}
+
+
+.button{
+    margin: 15px;
+}
+
+
+.mainPanel{
+    text-align: center;
+}
+
+
+.GoogleSearchButton{
+    color: white;
+    background-color: #303134;
+    height: 30px;
+    margin: 5px;
+    border-radius: 5px;
+    border-color: #303134;
+    border-style: solid;
+
+}
+
+
+.FeelingLuckyButton{
+    color: white;
+    background-color:#303134;
+    height: 30px;
+    margin: 5px;
+    border-radius: 5px;
+    
+    border-color: #303134;
+    border-style: solid;
+
+}
+
+.GoogleSearchButton:hover{
+    border-color: rgba(171, 171, 163, 0.959);
+    border-style: solid;
+    border-width: 0.6px ;
+    
+}
+.FeelingLuckyButton:hover{
+    border-color:  rgba(171, 171, 163, 0.959);
+    border-style: solid;
+    border-width: 0.6px;
+}
+.GoogleLanguage{
+    font-style: normal;
+    color: #8AB4F8;
+    text-decoration: none;
+}
+
