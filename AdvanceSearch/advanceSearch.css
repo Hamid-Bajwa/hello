@@ -1,0 +1,71 @@
+
+body {
+    font-family: "Sofia", sans-serif;
+    background-color:	#202124;
+    color: white;
+  
+  }
+
+.backToGooglePage{
+    font-weight: normal;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.778);
+    margin: 5px;
+    font-size: larger;
+}
+
+.AdvanceSearchTitle{
+    text-align: left;
+    font-weight: normal;
+    font-size: 20px;
+    color: #F28B82;
+}
+
+.InputField{
+    background-color: #202124;
+    border-radius: 0;
+    height: 30px;
+    color: white;
+    border-color: #616266;
+
+}
+.InputField:focus{
+    background-color: #303134;
+    color: white;
+
+}
+.InputField:hover{
+    background-color: #303134;
+    color: white;
+}
+
+
+.inputFieldText{
+    font-style: normal;
+    font-size: small;
+
+
+}
+
+
+
+.form-group{
+    margin: 10px;
+}
+
+
+.advanceSearchButton{
+    padding: 5px;
+    font-size: small;
+    color: white;
+    background-color: #8AB4F8;
+    border: #8AB4F8;
+    border-radius: 2px;
+
+}
+
+.advanceSearchButton:hover{
+    
+    background-color: #527ec6;
+
+}
