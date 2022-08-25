@@ -8,6 +8,29 @@ body {
    margin-top: 270px;
 }
 
+.topLinks{
+    margin-top: 25px;
+    text-decoration: none;
+    color: white;
+
+}
+.topLinks:hover{
+    color: #527ec6;
+
+}
+.ImageSearch{
+    text-align: right;
+}
+.AdvanceSearch{
+    text-align: left;
+
+}
+
+
+.TopLinkDiv{
+}
+
+
 .Google{
     text-align: center;
     font-size: 90px;
